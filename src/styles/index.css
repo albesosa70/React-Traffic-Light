@@ -10,3 +10,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+#container {
+    height: 380px;
+    width: 150px;
+    border-radius: 18%;
+  /*  radius:20%;*/
+}
+.circleLight {
+    border-radius: 75px 75px;
+    width: 85px;
+    height: 85px;
+    
+}
+
+.selected {
+    box-shadow: 1px 1px 40px 20px rgb(247, 255, 185); 
+}
